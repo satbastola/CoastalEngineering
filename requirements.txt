@@ -1,0 +1,6 @@
+numpy
+matplotlib
+ipywidgets
+jupyterquiz
+jupyterlab-mathjax3
+voila
